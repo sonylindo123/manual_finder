@@ -1,4 +1,1 @@
-marirepo
-========
-
-First repo
+Manual finder for hospitals. Python project.
